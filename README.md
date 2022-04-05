@@ -12,4 +12,4 @@ Hello, I'm Martin and welcome to my GitHub profile. Most of my stuff is private,
 
 ## Techically Solution
 Technically Solution is a GitHub organization created by me. Technically Solution is creating free useful applications for everyday life.
-Currently, we are developing the Edu4u (former EduTech project).
+Currently, we are developing the Edu4Me (former EduTech project).
