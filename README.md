@@ -12,6 +12,6 @@
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinko366&theme=gruvbox"> </img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinko366&theme=dracula"> </img>
   </a>
 </p>
