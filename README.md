@@ -11,7 +11,5 @@
 
 <br>
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinko366&theme=dracula"> </img>
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinko366&layout=compact&theme=transparent&hide_title=true&hide_border=true" />
 </p>
