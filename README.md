@@ -18,7 +18,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
 </p>
-<br><br><br>
+<br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinko366&layout=compact&theme=transparent&hide_title=true&hide_border=true" />
 </p>
