@@ -13,6 +13,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
