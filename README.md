@@ -5,7 +5,7 @@
 - 💻 Freelancer in web and application development
 - 👶 Started coding since 2018
 - 🛠 Experienced in Laravel and other Symphony based frameworks
-- 🌐 Founder of WWWizards.eu
+- 🌐 Founder of [anarchymonitor.live](https://anarchymonitor.live)
 -------
 
 <p align="center">
