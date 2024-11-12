@@ -13,7 +13,7 @@
   <img height="32" src="https://cdn.simpleicons.org/apache" />
   <img height="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" src="https://cdn.simpleicons.org/laravel" />
-  <img height="32" src="https://cdn.simpleicons.org/nodejs" />
+  <img height="32" src="https://simpleicons.org/icons/nodedotjs.svg" />
   <img height="32" src="https://cdn.simpleicons.org/python" />
   <img height="32" src="https://cdn.simpleicons.org/c++" />
 </p>
