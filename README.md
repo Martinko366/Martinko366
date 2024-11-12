@@ -16,7 +16,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c#" />
 </p>
 <br>
 <p align="center">
