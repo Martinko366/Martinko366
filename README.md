@@ -4,7 +4,7 @@
 - 📡 Somewhat less active streamer
 - 💻 Freelancer in web and application development
 - 👶 Started coding since 2018
-- 🛠 Experienced in Laravel and other Symfhony based frameworks
+- 🛠 Experienced in Laravel and other Symfony based frameworks
 - 🌐 Founder of [anarchymonitor.live](https://anarchymonitor.live)
 -------
 
