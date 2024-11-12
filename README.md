@@ -1,10 +1,10 @@
 <h2 align="center"><img src="https://cdn3.emoji.gg/emojis/8649_FoxxoTail.gif" height="32px"> Hello there, I'm Martin!</h2>
 
-- 📖 Student in administration of intelligent and digital systems field
+- 📖 Graduating in administration of intelligent and digital systems field
 - 📡 Somewhat less active streamer
 - 💻 Freelancer in web and application development
 - 👶 Started coding since 2018
-- 🛠 Experienced in Laravel and other Symphony based frameworks
+- 🛠 Experienced in Laravel and other Symfhony based frameworks
 - 🌐 Founder of [anarchymonitor.live](https://anarchymonitor.live)
 -------
 
