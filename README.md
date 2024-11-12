@@ -10,9 +10,9 @@
 
 <p align="center">
   <b>⚒️ Actively working with</b><br><br>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/symfony" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nodejs" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 </p>
