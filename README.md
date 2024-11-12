@@ -10,13 +10,11 @@
 
 <p align="center">
   <b>⚒️ Actively working with</b><br><br>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/symphony" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nodejs" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c#" />
 </p>
 <br>
 <p align="center">
