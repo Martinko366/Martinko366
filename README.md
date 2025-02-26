@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://cdn3.emoji.gg/emojis/8649_FoxxoTail.gif" height="32px" alt="Waving Emoji" /> Hi there, I'm **Martin**!
+  <img src="https://cdn3.emoji.gg/emojis/8649_FoxxoTail.gif" height="32px" alt="Waving Emoji" /> Hi there, I'm Martin!
 </h2>
 
 <p align="center">
