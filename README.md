@@ -10,12 +10,12 @@
 
 ### About Me
 
-- 🎓 **Graduating in Administration of Intelligent & Digital Systems**
+- 🎓 **Graduated in Administration of Intelligent & Digital Systems**
 - 🎥 **Streamer:** Occasionally live streaming my coding adventures
 - 💻 **Freelancer:** Specializing in web & application development
 - 👨‍💻 **Coding Journey:** Started coding in **2018**
 - 🛠 **Expertise:** Proficient in Laravel and other Symfony-based frameworks
-- 🌐 **Founder:** [anarchymonitor.live](https://anarchymonitor.live)
+- 🌐 **Founder:** [anarchymonitor.live](https://anarchymonitor.live) [pawroo.com](https://pawroo.com)
 
 ---
 
