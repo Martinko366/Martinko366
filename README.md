@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://cdn3.emoji.gg/emojis/8649_FoxxoTail.gif" height="32px" alt="Waving Emoji" /> Hi there, I'm Martin!
+  Hi there, I'm Martin!
 </h2>
 
 <p align="center">
@@ -11,11 +11,11 @@
 ### About Me
 
 - 🎓 **Graduated in Administration of Intelligent & Digital Systems**
-- 🎥 **Streamer:** Occasionally live streaming my coding adventures
+- 🎥 **Streamer:** Occasionally live streaming
 - 💻 **Freelancer:** Specializing in web & application development
 - 👨‍💻 **Coding Journey:** Started coding in **2018**
 - 🛠 **Expertise:** Proficient in Laravel and other Symfony-based frameworks
-- 🌐 **Founder:** [anarchymonitor.live](https://anarchymonitor.live) [pawroo.com](https://pawroo.com)
+- 🌐 **Founder:** [anarchymonitor.live](https://anarchymonitor.live) [itckar.com](https://itckar.com)
 
 ---
 
