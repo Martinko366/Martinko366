@@ -10,6 +10,7 @@
 
 ### About Me
 
+- 🎓 **Staduying for Bachelor in Informatics at Slovak University of Technology**
 - 🎓 **Graduated in Administration of Intelligent & Digital Systems**
 - 🎥 **Streamer:** Occasionally live streaming
 - 💻 **Freelancer:** Specializing in web & application development
